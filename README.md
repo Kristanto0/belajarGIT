@@ -9,8 +9,7 @@ Daftar tugas / branch
 7. Tugas-finalProject
    
 Daftar perintah GiT
-
-git branch
+<p>git branch 
 git branch Tugas-git
 git checkout Tugas-git
 "tambah dan ubah secara manual file Tugas-git.txt di folder BelajarGIT"
